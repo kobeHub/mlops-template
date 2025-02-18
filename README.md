@@ -88,7 +88,11 @@ Or a simplified structure focused on API calls to an LLM:
 ├── 📜 LICENSE
 ├── 📄 README.md
 ├── 🛠 config/
+├── 📂 data/         
+│   ├── 📂 processed/  
+│   └── 📂 raw/
 ├── 📑 metadata.yaml
+├── 📂 models/
 ├── 📊 reports/
 │   └── 📈 figures/
 ├── 📋 requirements.txt
