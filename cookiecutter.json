@@ -1,0 +1,23 @@
+{
+    "author": "kobeHub",
+    "project_name": "LLM Prompt Engineering",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "project_version": "v0.1",
+    "model_type": "gpt-4o-2024-08-06",
+    "open_source_license": [
+        "MIT",
+        "BSD-3-Clause",
+        "No license file"
+    ],
+    "include_visualization": "y",
+    "include_training": "y",
+    "include_inference": "y",
+    "include_data": "y",
+    "include_model": "y",
+    "use_github_actions_for_CICD": "y",
+    "use_pytest": "y",
+    "use_black": "y",
+    "_copy_without_render": [
+        "*.github/workflows"
+    ]
+}
