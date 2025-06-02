@@ -28,7 +28,7 @@ conda install cookiecutter
 
 Simply run the following command to create a project using this template:
 ```
-cookiecutter https://github.com/kobeHub/mlop-template
+cookiecutter https://github.com/kobeHub/mlops-template
 ```
 You will be prompted to enter details like:
 + Author
